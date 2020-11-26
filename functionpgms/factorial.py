@@ -14,3 +14,5 @@ def fact(num):
         fact=fact*i
     return fact
 print(fact(5))
+
+print("fatorial")

@@ -3,7 +3,6 @@ import functionpgms.mathoperations
 res=functionpgms.mathoperations.add(100,60)
 print(res)
 
-
 #another way of importing
 from functionpgms.mathoperations import * #* indicates all functions
 res=add(50,50)
